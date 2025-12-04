@@ -1,1 +1,177 @@
-
+[
+{
+"id": 1,
+"name": "Grinning Face",
+"category": "Smileys",
+"unicode": "😀",
+"description": "A yellow face with simple, open eyes and a broad, open smile."
+},
+{
+"id": 2,
+"name": "Smiling Face with Smiling Eyes",
+"category": "Smileys",
+"unicode": "😊",
+"description": "A warm, positive smile with smiling eyes."
+},
+{
+"id": 3,
+"name": "Face with Tears of Joy",
+"category": "Smileys",
+"unicode": "😂",
+"description": "A face laughing so hard that it is crying tears of joy."
+},
+{
+"id": 4,
+"name": "Thinking Face",
+"category": "Smileys",
+"unicode": "🤔",
+"description": "A face with a hand on its chin, deep in thought."
+},
+{
+"id": 5,
+"name": "Smiling Face with Sunglasses",
+"category": "Smileys",
+"unicode": "😎",
+"description": "A cool smiley face wearing dark sunglasses."
+},
+{
+"id": 6,
+"name": "Red Heart",
+"category": "Symbols",
+"unicode": "❤",
+"description": "A classic red heart, used to express love and affection."
+},
+{
+"id": 7,
+"name": "Thumbs Up",
+"category": "People",
+"unicode": "👍",
+"description": "A hand with the thumb extended upward, indicating approval."
+},
+{
+"id": 8,
+"name": "Clapping Hands",
+"category": "People",
+"unicode": "👏",
+"description": "Two hands clapping to show appreciation or congratulations."
+},
+{
+"id": 9,
+"name": "Fire",
+"category": "Nature",
+"unicode": "🔥",
+"description": "A flame, often used to indicate something is hot or trending."
+},
+{
+"id": 10,
+"name": "Party Popper",
+"category": "Activities",
+"unicode": "🎉",
+"description": "A party popper with confetti, used to celebrate events."
+},
+{
+"id": 11,
+"name": "Rocket",
+"category": "Travel",
+"unicode": "🚀",
+"description": "A rocket blasting off, often used to convey fast growth or success."
+},
+{
+"id": 12,
+"name": "Laptop",
+"category": "Objects",
+"unicode": "💻",
+"description": "A laptop computer, used to represent technology or work."
+},
+{
+"id": 13,
+"name": "Graduation Cap",
+"category": "Objects",
+"unicode": "🎓",
+"description": "A graduation cap, representing education and academic success."
+},
+{
+"id": 14,
+"name": "Globe Showing Americas",
+"category": "Travel",
+"unicode": "🌎",
+"description": "A globe showing the American continents, symbolizing the Earth."
+},
+{
+"id": 15,
+"name": "Sun",
+"category": "Nature",
+"unicode": "☀",
+"description": "A bright sun, associated with clear skies and warm weather."
+},
+{
+"id": 16,
+"name": "Cloud",
+"category": "Nature",
+"unicode": "☁",
+"description": "A simple cloud, often used to depict weather or online storage."
+},
+{
+"id": 17,
+"name": "Soccer Ball",
+"category": "Activities",
+"unicode": "⚽",
+"description": "A classic black-and-white soccer ball, representing sports."
+},
+{
+"id": 18,
+"name": "Basketball",
+"category": "Activities",
+"unicode": "🏀",
+"description": "An orange basketball, used in the sport of the same name."
+},
+{
+"id": 19,
+"name": "Pizza",
+"category": "Food",
+"unicode": "🍕",
+"description": "A slice of pepperoni pizza with cheese and crust."
+},
+{
+"id": 20,
+"name": "Hamburger",
+"category": "Food",
+"unicode": "🍔",
+"description": "A hamburger with bun, patty, and toppings."
+},
+{
+"id": 21,
+"name": "Taco",
+"category": "Food",
+"unicode": "🌮",
+"description": "A taco with a filled shell, often used to represent Mexican food."
+},
+{
+"id": 22,
+"name": "Dog Face",
+"category": "Animals",
+"unicode": "🐶",
+"description": "A friendly dog face, usually a cartoon-style pet."
+},
+{
+"id": 23,
+"name": "Cat Face",
+"category": "Animals",
+"unicode": "🐱",
+"description": "A cute cat face, representing pets or felines."
+},
+{
+"id": 24,
+"name": "Koala",
+"category": "Animals",
+"unicode": "🐨",
+"description": "A koala face, representing the Australian marsupial."
+},
+{
+"id": 25,
+"name": "Robot",
+"category": "Smileys",
+"unicode": "🤖",
+"description": "A robot face, often used in the context of AI and technology."
+}
+]
